@@ -21,7 +21,7 @@ It can be easily embedded into any HTML application and is an easy way to enable
 
 ## Example  
 
-Working reference implementation can be found at: https://htmlpreview.github.io/?https://github.com/VoIPstudio/web-phone-demo/blob/master/index.html
+Working reference implementation can be found at: https://repo.ssl7.net/webphone-demo/index.html
 
 
 ## Browser support
