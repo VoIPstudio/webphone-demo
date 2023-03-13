@@ -31,4 +31,4 @@ It has been tested on Chrome, Edge, Firefox and Safari.
 
 ## License
 
-WebPhone demo integration code is licensed under the [MIT license](https://github.com/VoIPstudio/web-phone-demo/raw/master/LICENSE).
+WebPhone demo integration code is licensed under the [MIT license](https://raw.githubusercontent.com/VoIPstudio/webphone-demo/main/LICENSE).
