@@ -13,8 +13,8 @@ It can be easily embedded into any HTML application and is an easy way to enable
 ## Quick Start 
 
 1. Sing up for an account at https://voipstudio.com/register/
-2. Pull web-phone-demo from Github to your PC;
-3. Open index.html in your web browser;
+2. Pull `webphone-demo` repository from Github to your PC.
+3. Open index.html in your web browser.
 4. Login with your VoIPstudio `emial` and `password`
 5. Enter number you want to call, for example `#123` to make a Test Call.
 
