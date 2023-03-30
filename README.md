@@ -15,7 +15,7 @@ It can be easily embedded into any HTML application and is an easy way to enable
 1. Sing up for an account at https://voipstudio.com/register/
 2. Pull `webphone-demo` repository from Github to your PC.
 3. Open index.html in your web browser.
-4. Login with your VoIPstudio `emial` and `password`
+4. Login with your VoIPstudio `email` and `password`
 5. Enter number you want to call, for example `#123` to make a Test Call.
 
 
