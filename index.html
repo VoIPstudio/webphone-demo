@@ -196,5 +196,10 @@ getById('mute').addEventListener('click', mute);
 getById('unmute').addEventListener('click', unmute);
 getById('hangup').addEventListener('click', hangup);
 
+document.querySelector('#dial > form').addEventListener('submit', event => {
+    event.preventDefault();
+    dialNumber();
+});
+
 </script>
 </body></html>
